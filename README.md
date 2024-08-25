@@ -1,5 +1,5 @@
 # Portfólio
-* https://mmaniezo.github.io/portfolio-alura/
+* https://mmaniezo.github.io/alura-play/
 
 ## Ferramentas utilizadas:
 
@@ -7,7 +7,7 @@
 
 * CSS
 
-* Flex-box ()
+* Flex-box (Focado em algo parecido com o youtube)
 
 ## Feito por:
 
